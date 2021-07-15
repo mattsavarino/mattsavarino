@@ -3,11 +3,11 @@
 
 -----
 
-<p align="left">Here's what I'm working on:</p>
+<p align="left">Here's what I'm currently working on:</p>
 
-[@microsoft](https://github.com/microsoft) | [@Azure](https://github.com/Azure) | [@github](https://github.com/github)
---- | --- | ---
-![@microsoft](https://avatars.githubusercontent.com/microsoft?s=150&v=1) | ![@Azure](https://avatars.githubusercontent.com/Azure?s=150&v=1) | ![@github](https://avatars.githubusercontent.com/github?s=150&v=1)
+[@microsoft](https://github.com/microsoft) | [@Azure](https://github.com/Azure) | [@github](https://github.com/github) | specifically...
+--- | --- | --- | ---
+![@microsoft](https://avatars.githubusercontent.com/microsoft?s=150&v=1) | ![@Azure](https://avatars.githubusercontent.com/Azure?s=150&v=1) | ![@github](https://avatars.githubusercontent.com/github?s=150&v=1) | - Data & AI<br />- Analytics<br />- Digital Twins<br />- Metaverse
 
 <p align="left">I'm passionate about the future of mixed reality on the Web:</p>
 
