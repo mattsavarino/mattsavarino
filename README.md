@@ -5,12 +5,17 @@
 
 <p align="left">Here's what I'm currently working on:</p>
 
-[@microsoft](https://github.com/microsoft) | [@Azure](https://github.com/Azure) | [@github](https://github.com/github) | specifically...
+[Microsoft](https://github.com/microsoft) | [Azure](https://github.com/Azure) | [Azure OpenAI](https://github.com/openai) | [GitHub](https://github.com/github)
 --- | --- | --- | ---
-![@microsoft](https://avatars.githubusercontent.com/microsoft?s=150&v=1) | ![@Azure](https://avatars.githubusercontent.com/Azure?s=150&v=1) | ![@github](https://avatars.githubusercontent.com/github?s=150&v=1) | - Data & AI<br />- Analytics<br />- Digital Twins<br />- Metaverse
+![@microsoft](https://avatars.githubusercontent.com/microsoft?s=150&v=1) | ![@azure](https://avatars.githubusercontent.com/Azure?s=150&v=1) | ![@openai](https://avatars.githubusercontent.com/u/14957082?s=150&v=4) | ![@github](https://avatars.githubusercontent.com/github?s=150&v=1)
 
-<p align="left">I'm passionate about the future of mixed reality on the Web:</p>
 
+* Currently building AI-powered apps leveraging Azure OpenAI, Computer Vision, Cognitive Search, Data & Analytics, and more.
+* Generally focused on agile factory and sustainability use cases.
+* Passionate about the future of mixed reality and embodied agents.
+
+<!--
 [@immersive-web](https://github.com/immersive-web) | [@MozillaReality](https://github.com/MozillaReality) | [@aframevr](https://github.com/aframevr) | [@babylonjs](https://github.com/babylonjs)
 --- | --- | --- | ---
 ![@immersive-web](https://avatars.githubusercontent.com/immersive-web?s=150&v=1) | ![@MozillaReality](https://avatars.githubusercontent.com/MozillaReality?s=150&v=1) | ![@aframevr](https://avatars.githubusercontent.com/aframevr?s=150&v=1) | ![@babylonjs](https://avatars.githubusercontent.com/babylonjs?s=150&v=1)
+-->
