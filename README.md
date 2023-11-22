@@ -10,9 +10,10 @@
 ![@microsoft](https://avatars.githubusercontent.com/microsoft?s=150&v=1) | ![@azure](https://avatars.githubusercontent.com/Azure?s=150&v=1) | ![@openai](https://avatars.githubusercontent.com/u/14957082?s=150&v=4) | ![@github](https://avatars.githubusercontent.com/github?s=150&v=1)
 
 
-* Currently building AI-powered apps leveraging Azure OpenAI, Computer Vision, Cognitive Search, Data & Analytics, and more.
-* Generally focused on agile factory and sustainability use cases.
-* Passionate about the future of mixed reality and embodied agents.
+* Building AI-powered solutions and co-developing MVPs with large enterprises.
+* Leveraging Azure OpenAI, Computer Vision, AI Search, Microsoft Fabric, and more.
+* Focusing on use cases for manufacturing, frontline workers, and sustainability.
+* Passionate about experience design, the future of mixed reality, and embodied agents.
 
 <!--
 [@immersive-web](https://github.com/immersive-web) | [@MozillaReality](https://github.com/MozillaReality) | [@aframevr](https://github.com/aframevr) | [@babylonjs](https://github.com/babylonjs)
