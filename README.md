@@ -3,12 +3,11 @@
 
 -----
 
-<p align="left">Here's what I'm currently working on:</p>
+Currently bootstrapping [Mayura AI](https://mayura.ai), previously at Microsoft Azure and Disney:
 
-[Microsoft](https://github.com/microsoft) | [Azure](https://github.com/Azure) | [Azure OpenAI](https://github.com/openai) | [GitHub](https://github.com/github)
+[Mayura AI](https://mayura.ai) | [Microsoft](https://github.com/microsoft) | [Azure](https://github.com/Azure) | [Disney](https://github.com/disney)
 --- | --- | --- | ---
-![@microsoft](https://avatars.githubusercontent.com/microsoft?s=150&v=1) | ![@azure](https://avatars.githubusercontent.com/Azure?s=150&v=1) | ![@openai](https://avatars.githubusercontent.com/u/14957082?s=150&v=4) | ![@github](https://avatars.githubusercontent.com/github?s=150&v=1)
-
+![@mayurahq](https://avatars.githubusercontent.com/mayurahq?s=150&v=1) | ![@microsoft](https://avatars.githubusercontent.com/microsoft?s=150&v=1) | ![@azure](https://avatars.githubusercontent.com/Azure?s=150&v=1) | ![@disney](https://avatars.githubusercontent.com/u/622654?s=150&v=4)
 
 * Building AI-powered solutions and co-developing MVPs with large enterprises.
 * Leveraging Azure OpenAI, Computer Vision, AI Search, Microsoft Fabric, and more.
