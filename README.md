@@ -1,17 +1,24 @@
 <h1 align="center">Hi 👋, I'm Matt</h1>
-<h3 align="center">Full-Stack Product Development</h3>
+<h3 align="center">Full-Stack Product Innovation</h3>
 
------
 
-Founder of [Mayura AI](https://mayura.ai), previously at Microsoft Azure and Disney:
+[![@mayurahq](https://avatars.githubusercontent.com/mayurahq?s=150&v=1)](https://mayura.ai)
 
-[Mayura AI](https://mayura.ai) | [Microsoft](https://github.com/microsoft) | [Azure](https://github.com/Azure) | [Disney](https://github.com/disney)
---- | --- | --- | ---
-![@mayurahq](https://avatars.githubusercontent.com/mayurahq?s=150&v=1) | ![@microsoft](https://avatars.githubusercontent.com/microsoft?s=150&v=1) | ![@azure](https://avatars.githubusercontent.com/Azure?s=150&v=1) | ![@disney](https://avatars.githubusercontent.com/u/622654?s=150&v=4)
+### Founder, [Mayura.AI](https://mayura.ai)
 
-* Building sovereign intelligence infrastructure.
-* Delivering AI-powered solutions to startups and enterprises.
-* Leveraging edge, automation, computer vision, data engineering.
-* Focusing on use cases that deliver fundamental value to any company.
-* Passionate about experience design and the future of mixed reality.
-* Beyond code, I like guitar, landscaping, woodworking, & sports.
+[Mayura](https://mayura.ai) is building sovereign intelligence infrastructure as a product. While that platform matures, we partner directly with a small number of companies each quarter to ship production AI on their terms, using the same patterns, playbooks, and accelerators we've built with enterprises and into Mayura.
+
+You get senior engineering and AI leadership embedded with your team. We get to learn what real companies actually need. Both sides win.
+
+**💬 [Contact or Request an Audit](https://mayura.ai/contact)**
+
+
+### More Info
+* [Services Overview](https://mayura.ai/services)
+* [Platform Overview](https://mayura.ai/platform)
+* [Solutions Overview](https://mayura.ai/solutions)
+
+### Previous
+* [Microsoft](https://github.com/microsoft), Forward Deployed Engineering
+* [Azure](https://github.com/Azure), Data & AI Engineering
+* [Disney](https://github.com/disney), ESPN/ABC Customer Experiences
