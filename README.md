@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Matt</h1>
 <h3 align="center">Full-Stack Product Innovation</h3>
 
-
 [![@mayurahq](https://avatars.githubusercontent.com/mayurahq?s=150&v=1)](https://mayura.ai)
 
 ### Founder, [Mayura.AI](https://mayura.ai)
@@ -12,11 +11,6 @@ You get senior engineering and AI leadership embedded with your team. We get to 
 
 **💬 [Contact or Request an Audit](https://mayura.ai/contact)**
 
-
-### More Info
-* [Services Overview](https://mayura.ai/services)
-* [Platform Overview](https://mayura.ai/platform)
-* [Solutions Overview](https://mayura.ai/solutions)
 
 ### Previous
 * [Microsoft](https://github.com/microsoft), Forward Deployed Engineering
